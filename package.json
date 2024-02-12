@@ -1,0 +1,27 @@
+{
+  "name": "sapper",
+  "version": "1.0.0",
+  "description": "Classic Windows build-in game \"Sapper\" created with Typescript",
+  "main": "sapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwarr170484/sapper.git"
+  },
+  "keywords": [
+    "Sapper",
+    "Typescript",
+    "Javascript"
+  ],
+  "author": "Edgar Zhiznevski <edwarr170484@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwarr170484/sapper/issues"
+  },
+  "homepage": "https://github.com/edwarr170484/sapper#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
